@@ -51,7 +51,7 @@ Feel free to use, modify, and distribute this script as needed.
 
 ## Author
 
-- Aj (GitHub: [ajiq360](https://github.com/ajiq360))
+- Aj (GitHub: [iajepic](https://github.com/iajepic))
 
 If you have any questions or encounter issues, please feel free to open an issue on this repository.
 
